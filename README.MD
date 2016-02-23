@@ -39,9 +39,7 @@ metaphor: javascript allows you to take your house and open and close doors, mak
 
 This is a super super super rudimentary explanation of how html/css/javascript interact. If you're keen to find out more, you can check these resources here or simply search the web for more:
 
-* ...
-* ...
-* ...
+* [http://webdesignfromscratch.com/html-css/how-html-css-js-work-together/](http://webdesignfromscratch.com/html-css/how-html-css-js-work-together/)
 
 
 
